@@ -28,3 +28,4 @@ for num in list1:
     similarity_scores.append(num * count_in_list2)
 
 print(sum(similarity_scores))
+# Answer: 26674158
